@@ -2,7 +2,7 @@
 title: Untitled document
 layout: post
 author: zain.syed
-permalink: /untitled-document/
+permalink: /week16/
 source-id: 1WfbwP8MAXPXEqUuqpslu2n0Y9lx1gaYXphB35D-Hztg
 published: true
 ---
