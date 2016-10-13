@@ -22,8 +22,8 @@ body {
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
-  font";", 18px/1.4 $helvetica;
-  color: #006400
+  font: 18px/1.4 $helvetica;
+  color: #006400;
 }
 
 .container {
@@ -33,7 +33,7 @@ body {
   width: 100%;
 }
 
-h1,#000066 h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
