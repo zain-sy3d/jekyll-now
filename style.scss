@@ -42,7 +42,7 @@ table, th, td {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #ff8c00;
   font-weight: bold;
 
   line-height: 1.7;
@@ -71,7 +71,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #ff8c00;
 }
 
 p {
@@ -297,3 +297,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+}
