@@ -27,12 +27,30 @@ body {
 
 table {
     border-collapse: collapse;
+    width: 100%;
 }
 
 table, th, td {
-    border: 1px solid white;
+   border: 1px solid white;
+	background-color: rgba(255, 255, 255, 0.1);
 }
 
+td {
+   vertical-align: middle; 
+   padding: 10px;
+}	
+
+th {
+   color: white;
+   background: rgba(255, 255, 255, 0.1);
+   height:50px;
+   vertical-align: middle;
+}
+	
+  .comments {
+    margin-top: 10px;
+  }
+	
 .container {
   margin: 0 auto;
   max-width: 740px;
